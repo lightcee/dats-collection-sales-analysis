@@ -1,4 +1,4 @@
-# Dat's Collection: Sales Analysis (Excel)
+# Dats Collection: Sales Analysis (Excel)
 
 ## The problem
 I run Dat's Collection Ventures, an accessories and fragrance business that sells mainly through social media. I wanted to know: which products earn the most, and which platform brings the most profit?
