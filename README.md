@@ -20,7 +20,7 @@ I run Dat's Collection Ventures, an accessories and fragrance business that sell
 - Glasses earned N48,900 from 13 sales (about N3,760 per sale)
 - Perfume earned N35,500 from 7 sales (about N5,070 per sale)
 - WhatsApp produced N74,100 (about 88% of profit); TikTok produced N10,300 from 2 sales
-- 
+  
 ![Pivot table](pivot-table.jpeg)
 
 
@@ -29,10 +29,11 @@ I run Dat's Collection Ventures, an accessories and fragrance business that sell
 - Perfume earns more per sale, so it may be worth promoting more
 - WhatsApp is my main sales channel, so it deserves most of my effort
 - TikTok has very few sales so far, so I need more data before judging it
+- 
 ## Dashboard
 
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.png.jpeg)
 
 
 
