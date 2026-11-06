@@ -14,7 +14,7 @@ I run Dat's Collection Ventures, an accessories and fragrance business that sell
 - Fixed dates stored as text and corrected typos in column headers
 - Converted the data into an Excel Table
 - Built a pivot table of profit by item and platform
-
+- Added a month column, built monthly, platform and item pivots, and made a dashboard
 ## Findings
 - Total profit: N84,400
 - Glasses earned N48,900 from 13 sales (about N3,760 per sale)
@@ -29,7 +29,25 @@ I run Dat's Collection Ventures, an accessories and fragrance business that sell
 - Perfume earns more per sale, so it may be worth promoting more
 - WhatsApp is my main sales channel, so it deserves most of my effort
 - TikTok has very few sales so far, so I need more data before judging it
+## Dashboard
 
+
+![Dashboard](dashboard.png)
+
+
+
+## Monthly analysis
+| Month | Glasses | Perfume | Total profit |
+|---|---|---|---|
+| Aug | N19,200 | none | N19,200 |
+| Sep | N6,500 | N23,500 | N30,000 |
+| Oct | N23,200 | N12,000 | N35,200 |
+
+**What I found:**
+- Profit grew 83% from August to October, but sales stayed almost flat (6, 7, 7 per month).
+- Growth came from higher profit per sale (about N3,200 in Aug, N4,290 in Sep, N5,030 in Oct).
+- Perfume sold less in October (2 sales vs 5), so glasses drove that month.
+- Open question: my glasses cost also rose, so is my margin shrinking?
 ## Limits
 This is a small dataset (20 sales), so these are early patterns, not firm conclusions. I will keep adding data as the business grows.
 
