@@ -49,6 +49,18 @@ I run Dat's Collection Ventures, an accessories and fragrance business that sell
 - Growth came from higher profit per sale (about N3,200 in Aug, N4,290 in Sep, N5,030 in Oct).
 - Perfume sold less in October (2 sales vs 5), so glasses drove that month.
 - Open question: my glasses cost also rose, so is my margin shrinking?
+## SQL analysis
+I loaded the same 20 sales into MySQL and answered the same questions with queries (see `sales_analysis.sql`).
+
+| Question | SQL result | Matches Excel? |
+|---|---|---|
+| Total profit | N84,400 | Yes |
+| Profit by item | Glasses N48,900, Perfume N35,500 | Yes |
+| Profit by platform | WhatsApp N74,100, TikTok N10,300 | Yes |
+| Profit by month | Aug N19,200, Sep N30,000, Oct N35,200 | Yes |
+
+Using GROUP BY, SUM and MONTH to build the same summaries as my Excel pivot tables.
+
 ## Limits
 This is a small dataset (20 sales), so these are early patterns, not firm conclusions. I will keep adding data as the business grows.
 
